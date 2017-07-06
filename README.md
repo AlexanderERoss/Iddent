@@ -1,2 +1,2 @@
 # Iddent
-Uses an algorithm developed by Alexander Ross to find minimum surface clustering to create "human like" categorisations. Uses n dimensions of cluster data and an n+1th abstraction dimension to group clusters.
+A clustering algorithm that starts with the premise, statistics is an attempt to unify the disparate. In this pure context, this is an algorithm to connect disparate data points using minimal connection distance.
